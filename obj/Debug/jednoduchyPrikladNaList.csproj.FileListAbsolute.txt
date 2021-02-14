@@ -1,0 +1,7 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\obj\Debug\jednoduchyPrikladNaList.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\obj\Debug\jednoduchyPrikladNaList.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\bin\Debug\jednoduchyPrikladNaList.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\bin\Debug\jednoduchyPrikladNaList.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\bin\Debug\jednoduchyPrikladNaList.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\obj\Debug\jednoduchyPrikladNaList.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\19-ucim-se-2021-02-14\jednoduchyPrikladNaList\jednoduchyPrikladNaList\obj\Debug\jednoduchyPrikladNaList.pdb
